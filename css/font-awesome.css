@@ -498,7 +498,9 @@
   content: "\f06a";
 }
 .fa-gift:before {
-  content: "\f06b";
+    content: "\f06b";
+    color: #ff0000;
+    font-size: 2em;
 }
 .fa-leaf:before {
   content: "\f06c";

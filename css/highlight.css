@@ -2,6 +2,13 @@
 
 /* highlight */
 
+.container,
+  .navbar-static-top .container,
+  .navbar-fixed-top .container,
+  .navbar-fixed-bottom .container {
+    width: 90%;
+  }
+
 pre, .highlight{
   background: #eee;//whitesmoke;//#333;
   margin: 0.5em 0;
@@ -194,7 +201,8 @@ pre .javascript .function {
 }
 
 /* great */
-pre.src {
-    background: black;
-    color: white;
+pre.src,pre.example {
+   // background: #fdf6e3;//black;
+   // color: #657b83;//yellow;
 }
+
