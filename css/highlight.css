@@ -1,13 +1,14 @@
 /* Code, Pre [landscape](http://goo.gl/hnwXeD) */
 
 /* highlight */
-
+/*
 .container,
   .navbar-static-top .container,
   .navbar-fixed-top .container,
   .navbar-fixed-bottom .container {
     width: 90%;
   }
+*/
 
 pre, .highlight{
   background: #eee;//whitesmoke;//#333;
