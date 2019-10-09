@@ -73,7 +73,7 @@ body {
 }
 
 #content-reading p{
-    text-indent:40px;
+    text-indent:60px; /* 2-word: 30px * 2 */
 }
 
 .page, .post{
