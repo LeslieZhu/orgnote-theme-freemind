@@ -67,6 +67,15 @@ body {
   font-size: 16px;
 }
 
+#content-reading{
+    font-size: 30px; /* h2 */
+    line-height: 1.5em;
+}
+
+#content-reading p{
+    text-indent:40px;
+}
+
 .page, .post{
   line-height: 1.5em;
   font-family: 'Open Sans',"Helvetica Neue", "Helvetica","Microsoft YaHei", "WenQuanYi Micro Hei",Arial, sans-serif;
