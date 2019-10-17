@@ -585,6 +585,17 @@ td {
     cursor: pointer;
 }
 
+.post-reward {
+    margin-top: 20px;
+    padding-top: 10px;
+    text-align: center;
+    border-top: 1px dashed #e6e6e6;
+}
+
+//.post-reward .qr-code {
+//    display: none;
+//}
+
 .post-reward .qr-code .image {
     width: 200px;
     height: 200px;
