@@ -388,12 +388,12 @@ h4 {
 }
 
 .entry h2{
-  display:block; overflow: hidden; width: 0; height: 0;
+  display:block; overflow: hidden; //width: 0; //height: 0;
   margin: -20px 0;
 }
 
 .entry h3{
-  display:block; overflow: hidden; width: 0; height: 0;
+  display:block; overflow: hidden; //width: 0; //height: 0;
 }
 
 .entry .col-md-8{
