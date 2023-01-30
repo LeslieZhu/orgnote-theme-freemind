@@ -72,8 +72,9 @@ body {
     line-height: 1.5em;
 }
 
-#content-reading p{
-    text-indent:60px; /* 2-word: 30px * 2 */
+#content-reading > p{
+    //text-indent:60px; /* 2-word: 30px * 2 */
+    text-indent: 2em;
 }
 
 .page, .post{
@@ -843,7 +844,8 @@ li {
 blockquote {
     border-left: 5px lightgrey solid;
     padding-left: 15px;
-    margin-left: 20px;
+    //margin-left: 20px;
+    margin-left: 2em;
     background: #f4f4f4;
 }
 
@@ -913,6 +915,11 @@ div.tweet p {
     padding: 2px 0.5em 2px 0.5em;
     margin-bottom: 20px;
     background-color: #fbfbfb;
+}
+
+div > p {
+    //font-size: 30px;
+    text-indent: 2em;
 }
 
 div.tweet i {
